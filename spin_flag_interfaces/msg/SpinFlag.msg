@@ -1,0 +1,1 @@
+uint8 spin_flag #小陀螺旋转标志
